@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+h1 {
+  color: #c300ff; }
+
+.card-course-item {
+  margin-top: 16px; }
+
+.user-avatar {
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  margin-right: 4px; }
+
+.center-th {
+  text-align: center; }
